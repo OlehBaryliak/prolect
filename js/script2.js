@@ -7,9 +7,9 @@ console.log('string' * 9);
 
 const persone = '5';
 
-const bool = false;
+const bool = false;hjkjh
 
-// console.log(something);
+// console.log(something);hjkl;lkj
 
 let und;
 console.log(und);
