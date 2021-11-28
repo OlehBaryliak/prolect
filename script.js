@@ -68,13 +68,13 @@
 
 // 21 masuvu
 
-const arr = [2, 13, 26, 8, 10];
-arr.sort(compareNum);
-console.log(arr);
+// const arr = [2, 13, 26, 8, 10];
+// arr.sort(compareNum);
+// console.log(arr);
 
-function compareNum(a, b) {
-    return a - b;
-}
+// function compareNum(a, b) {
+//     return a - b;
+// }
 // arr[99] = 0;
 // console.log(arr.length); 
 // console.log(arr);
@@ -100,4 +100,24 @@ function compareNum(a, b) {
 // const products =  str.split(", ");
 // products.sort();
 // console.log(products.join('; '));
+
+let a = 5,
+    b = a;
+
+b = b + 5;
+
+console.log(b);
+console.log(a);
+
+const obj = {
+    a: 5,
+    b: 1
+};
+
+const copy = obj; //ssulka
+
+copy.a = 10;
+
+console.log(copy);
+console.log(obj);
 
