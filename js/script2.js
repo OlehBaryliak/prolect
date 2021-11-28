@@ -1,28 +1,28 @@
-"use sctrict";
+// "use sctrict";
 
-let number = 4.6;
+// let number = 4.6;
 
-console.log(-4/0);
-console.log('string' * 9);
+// console.log(-4/0);
+// console.log('string' * 9);
 
-const persone = '5';
+// const persone = '5';
 
-const bool = false;hjkjh
+// const bool = false;
 
-// console.log(something);hjkl;lkj
+// // console.log(something);
 
-let und;
-console.log(und);
+// let und;
+// console.log(und);
 
-const obj = {
-    name: "John",
-    age: 25,
-    isMerried: false
-};
+// const obj = {
+//     name: "John",
+//     age: 25,
+//     isMerried: false
+// };
 
-// console.log(obj.name);
-// console.log(obj["name"]);
+// // console.log(obj.name);
+// // console.log(obj["name"]);
 
 
-let arr = ['plum.png', 6, {}, [], 'orange.jpg', 'apple.bmp'];
-console.log(arr[1]);
+// let arr = ['plum.png', 6, {}, [], 'orange.jpg', 'apple.bmp'];
+// console.log(arr[1]);
